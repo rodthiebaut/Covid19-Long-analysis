@@ -1,0 +1,6 @@
+echo "# Covid19-Long-analysis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rodthiebaut/Covid19-Long-analysis.git
+git push -u origin master
